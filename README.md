@@ -10,7 +10,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%" >
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SankethBK&layout=compact)
 
 ### Stackoverflow stats
 <a href="https://stackoverflow.com/users/10553747/sanketh-b-k"><img src="https://stackoverflow.com/users/flair/10553747.png?theme=dark" width="208" height="58" alt="profile for Sanketh B. K at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sanketh B. K at Stack Overflow, Q&amp;A for professional and enthusiast programmers" ></a>
