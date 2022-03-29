@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SankethBK
-- 👀 I’m interested in Web development, Mobile App development, Data Science, Deep Learning, Blockchain, DSA.  
+- 👀 I’m interested in Web developmen and Mobile App development.
 - 🌱 I’m currently learning Dart and Flutter. I have decent amount of experience in React, Django, Node.js. 
 - 📫 Find me at sankethbk7777@gmail.com
 
