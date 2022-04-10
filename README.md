@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SankethBK
 - 👀 I’m interested in Web development and Mobile App development.
-- 🌱 I’m currently learning Dart and Flutter. I have decent amount of experience in React, Django, Node.js. 
+- 🌱 I’m currently learning Dart and Flutter. I have previously worked with React, Django, Node.js. 
 - 📫 Find me at sankethbk7777@gmail.com
 
 #### Github Stats
