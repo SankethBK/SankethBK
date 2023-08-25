@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SankethBK
 - 👀 I’m interested in Web development and Mobile App development.
 - 🌱 I’m currently learning Dart and Flutter. I have previously worked with React, Django, Node.js. 
-- 📫 Find me at www.sankethbk.me
+
 
 #### Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=SankethBK&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
